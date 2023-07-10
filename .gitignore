@@ -1,0 +1,19 @@
+*.pyc
+__pychace__/
+.ipynb_checkpoints
+*._
+._*
+.DS_Store
+migrations/
+*.sqlite3
+# __init__.py
+*.csv
+ckpts/
+outputs/
+*.h5
+*.pt
+*.pth
+*.jpg
+*.png
+*.tar
+*.txt
